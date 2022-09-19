@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background: url(/Disney+-White-Dark-Background-Logo.wine.svg) no-repeat;
+    background-size:cover;
+}
+.navbar{
+    border: 2px ridge blueviolet;
+    height: 100px;
+} 
+ul{
+    list-style: none;
+    color: white;
+}
+li{
+    float: left;
+    padding: 20px;
+}
+li img{
+    height: 50px;
+    width: 100px;
+}
+form{
+    margin-left: 35%;
+    border: 2px ridge rgba(21, 25, 255, 0.0);
+    height: 300px;
+    width: 400px;
+    
+    
+}
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 6px blueviolet;
+    color: aqua;
+}
+.button{
+    margin-left:25%;
+}
+label{
+    background-color: aqua;
+    text-shadow: 2px 2px 6px black;
+}
+select{
+    margin-bottom:30%;
+    padding-right: 10px;
+}
